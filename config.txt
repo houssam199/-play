@@ -1,4 +1,4 @@
-token=NDg4ODczMzI3MTA1MDE1ODEw.DniiUg.h7p7w0TsovfkVg76zAYJVoigFUA
+token=NDg4ODczMzI3MTA1MDE1ODEw.DnzM9Q.Job_okxxVEgE27aZ-5V5O02UtJ0
 owner=464046823162511400
 prefix=-
 game=Tybe -help
